@@ -1,1 +1,0 @@
-{"version":3,"file":"record.providers.js","sourceRoot":"","sources":["../../../src/shared/providers/record.providers.ts"],"names":[],"mappings":";;;AACA,+DAAoD;AAEvC,QAAA,eAAe,GAAG;IAC7B;QACE,OAAO,EAAE,mBAAmB;QAC5B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,uBAAM,CAAC;QACxE,MAAM,EAAE,CAAC,aAAa,CAAC;KACxB;CACF,CAAC"}
