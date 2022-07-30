@@ -14,10 +14,10 @@ export class User {
   id: number;
 
   @Column()
-  name: Text;
+  name: string;
 
   @Column()
-  location: Text;
+  location: string;
 
   @CreateDateColumn({ name: 'created_at' })
   createdAt: Date;

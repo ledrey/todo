@@ -15,10 +15,10 @@ export class Record {
   id: number;
 
   @Column({ unique: true })
-  title: Text;
+  title: string;
 
   @Column()
-  content: Text;
+  content: string;
 
   @CreateDateColumn({ name: 'created_at' })
   createdAt: Date;
